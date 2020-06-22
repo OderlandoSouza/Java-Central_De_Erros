@@ -33,4 +33,4 @@ Abaixo estão os requisitos desta API, o time terá total liberdade para tomar a
    - **senha** : 123
    
 ## Documentação   
-   https://app.swaggerhub.com/apis/Oderlando/CentralDeErros/1.0.0
+   https://app.swaggerhub.com/apis-docs/Oderlando/CentralDeErros/1.0.0

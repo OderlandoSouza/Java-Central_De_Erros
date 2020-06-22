@@ -26,8 +26,11 @@ Abaixo estão os requisitos desta API, o time terá total liberdade para tomar a
    - A consulta de listagem não deve retornar os LOGs dos Eventos
    - Deve permitir a busca de um evento por um ID, dessa maneira exibindo o LOG desse evento em específico
 
-## Informações para o client acessar a API :
+## Informações para o cliente acessar a API :
 
-   - **URI de acesso** : 
-   - **usuario** = erros
-   - **senha** = 123
+   - **URL de acesso** : http://centraldeerros0.herokuapp.com 
+   - **usuario** : erros
+   - **senha** : 123
+   
+## Documentação   
+   https://app.swaggerhub.com/apis/Oderlando/CentralDeErros/1.0.0
